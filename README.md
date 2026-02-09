@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning **React , Linux , Cloud**
 
 - ⚡ Fun fact **Always ready to learn**
+  
+- ⚒️ Curruntly Working on **Stock Management System**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
